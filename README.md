@@ -1,4 +1,4 @@
-# Exp 05- Student Registration System
+# Exp 05- Student Course Registration System
 
 ### Name : Titus Ratna Kumar Karivella 
 ### Register number : 212224230292
@@ -60,4 +60,4 @@ Design database tables for Students, Courses, Enrollment, and Fees.
 
 # RESULT:
 
-Thus the Student Registration System project was executed and the output was verified.
+Thus the Student Course Registration System project was executed and the output was verified.
