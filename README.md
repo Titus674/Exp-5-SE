@@ -60,4 +60,4 @@ Design database tables for Students, Courses, Enrollment, and Fees.
 
 # RESULT:
 
-Thus the Student enrollment management system project was executed and the output was verified.
+Thus the Student Registration System project was executed and the output was verified.
